@@ -1,0 +1,13 @@
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\obj\Debug\MG_Producto.csproj.AssemblyReference.cache
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\obj\Debug\MG_Producto.csproj.CoreCompileInputs.cache
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\MG_Producto.dll
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\MG_Producto.pdb
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\LibConexionBD.dll
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\LibParametro.dll
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\LibConexionBD.pdb
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\LibParametro.pdb
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\obj\Debug\MG_Producto.csproj.CopyComplete
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\obj\Debug\MG_Producto.dll
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\obj\Debug\MG_Producto.pdb
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\LibLlenarGrid.dll
+C:\Users\Mariely Gutierrez\Documents\Adalberto#\EJERCICIO_PRODUCTO\MG_Producto\MG_Producto\bin\Debug\LibLlenarGrid.pdb

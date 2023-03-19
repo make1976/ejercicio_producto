@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Conexion>
+  <Servidor>MARIELLY\SQLEXPRESS</Servidor>
+  <BaseDatos>DB_Mary</BaseDatos>
+  <Usuario></Usuario>
+  <Password></Password>
+</Conexion>
